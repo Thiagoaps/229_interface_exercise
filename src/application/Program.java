@@ -7,8 +7,8 @@ import java.util.Scanner;
 
 import model.entities.Contract;
 import model.entities.Installment;
-import model.service.ContractService;
-import model.service.PaypalService;
+import model.services.ContractService;
+import model.services.PaypalService;
 
 public class Program {
 
